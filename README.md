@@ -8,6 +8,7 @@ Here's some fun facts about me:
 - 🕸 You can visit my website by [clicking here](http:&#x2F;&#x2F;3reetop.tech)
 - 💬 My pronouns are: `He`, `Him`
 - 🗣 My Discord username is: `3reetop#4685`
+- :heart: Check out my [GitHub Sponsors](https://github.com/3reetop) profile!
 
 <details open>
 <summary>🤝 <b>My social media profiles</b></summary>
@@ -83,4 +84,4 @@ Thanks for stopping by my GitHub profile! Hope you enjoyed it!
 
 [![Visits Badge](https://badges.pufler.dev/visits/3reetop/3reetop?style=for-the-badge)](https://github.com/3reetop/3reetop/)
 
-<p align="left" style="font-size=10px;"><i>This README was last generated on Sunday, September 13, 2020, 7:02 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
+<p align="left" style="font-size=10px;"><i>This README was last generated on Sunday, September 13, 2020, 7:22 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>

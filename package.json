@@ -4,14 +4,14 @@
   "description": "<!-- **3reetop/3reetop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/3reetop/3reetop.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "3reetop",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/3reetop/3reetop/issues"
   },
