@@ -1,0 +1,22 @@
+{
+  "name": "3reetop",
+  "version": "1.0.0",
+  "description": "<!-- **3reetop/3reetop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3reetop/3reetop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3reetop/3reetop/issues"
+  },
+  "homepage": "https://github.com/3reetop/3reetop#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}

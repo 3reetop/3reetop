@@ -1,0 +1,92 @@
+{
+	"name": "Sanel",
+	"age": "16",
+	"bio": "I'm a software developer, music producer, and (occasional) Twitch streamer. I like to make trap beats and share them with the world. In my downtime, I like to code small toys every now and then, and I stream Mondays, Tuesdays, and Wednesdays on my Twitch channel!",
+	"twitch_username": "3reetopofficial",
+	"discord_username": "3reetop#4685",
+	"medium_blog": "@3reetop",
+	"website": "http://3reetop.tech",
+	"github_username": "3reetop",
+	"show_private_contribs": true,
+	"social_media": [
+		{
+			"profile": "Twitter",
+			"profile_badge_url": "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white",
+			"profile_url": "https://twitter.com/3reetop"
+		},
+		{
+			"profile": "Instagram",
+			"profile_badge_url": "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white",
+			"profile_url": "https://instagram.com/3reetop"
+		},
+		{
+			"profile": "Facebook",
+			"profile_badge_url": "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white",
+			"profile_url": "https://facebook.com/3reetop"
+		},
+		{
+			"profile": "Discord",
+			"profile_badge_url": "https://img.shields.io/badge/discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white",
+			"profile_url": "https://discord.gg/ds3rXE6"
+		},
+		{
+			"profile": "Steam",
+			"profile_badge_url": "https://img.shields.io/badge/steam-000000.svg?&style=for-the-badge&logo=steam&logoColor=white",
+			"profile_url": "https://steamcommunity.com/id/3reetop"
+		},
+		{
+			"profile": "YouTube",
+			"profile_badge_url": "https://img.shields.io/badge/youtube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white",
+			"profile_url": "https://youtube.com/channel/"
+		},
+		{
+			"profile": "TrakTrain",
+			"profile_badge_url": "https://img.shields.io/badge/purchase-beats-%23.svg?&style=for-the-badge&logo=&logoColor=white%22",
+			"profile_url": "https://traktrain.com/3reetop"
+		},
+		{
+			"profile": "Cash App",
+			"profile_badge_url": "https://img.shields.io/badge/cash-app-28c101.svg?&style=for-the-badge&logo=cash-app&logoColor=white",
+			"profile_url": "https://cash.app/$3reetop"
+		},
+		{
+			"profile": "Google",
+			"profile_badge_url": "https://img.shields.io/badge/look_ma_i%27m_on_google%21-ea4335.svg?&style=for-the-badge&logo=google&logoColor=white",
+			"profile_url": "https://g.co/kgs/GCQQKK"
+		}
+	],
+	"pronouns": ["`He`, ", "`Him`"],
+	"languages": ["`Bosnian`, ", "`English`"],
+	"programming_languages": ["`JavaScript`, ", "`Python`, ", "`C#`, ", "`Java`"],
+	"fun_facts": [],
+	"stream_schedule": [{
+			"day": "Monday",
+			"start_time": "10 PM EST",
+			"duration": "2h",
+			"games": [
+				"Fall Guys, ",
+				"PC Building Simulator"
+			]
+		},
+		{
+			"day": "Tuesday",
+			"start_time": "10 PM EST",
+			"duration": "2h",
+			"games": [
+				"Minecraft Survival, ",
+				"Among Us, ",
+				"Making trap beats in FL Studio"
+			]
+		},
+		{
+			"day": "Wednesday",
+			"start_time": "10 PM EST",
+			"duration": "2h",
+			"games": [
+				"Just Cause 3, ",
+				"Kind Words, ",
+				"Cities: Skylines"
+			]
+		}
+	]
+}

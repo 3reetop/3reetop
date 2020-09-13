@@ -1,0 +1,87 @@
+## 👋 Hey there!
+I'm {{name}}! I'm {{age}} years old. {{bio}}
+
+Here's some fun facts about me:
+
+- 🌎 I speak the following languages: {{#languages}}{{{.}}}{{/languages}}
+- 💻 I code in the following programming languages: {{#programming_languages}}{{{.}}}{{/programming_languages}}
+- 🕸 You can visit my website by [clicking here]({{website}})
+- 💬 My pronouns are: {{#pronouns}}{{{.}}}{{/pronouns}}
+- 🗣 My Discord username is: `{{discord_username}}`
+{{#fun_facts}}
+- {{emoji}} {{fact}}
+{{/fun_facts}}
+
+<details open>
+<summary>🤝 <b>My social media profiles</b></summary>
+<br>
+<p align="center">
+{{#social_media}} <a href="{{profile_url}}"><img src="{{profile_badge_url}}" alt="View my {{profile}} profile!"/></a>  {{/social_media}}
+{{^social_media}}😢 No social media profiles found!{{/social_media}}
+</p>
+</details>
+
+---
+
+<details open>
+<summary>👀 <b>My GitHub stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username={{github_username}}&show_icons=true&theme=dracula&line_height=27&count_private={{show_private_contribs}}">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{github_username}}&theme=dracula&count_private={{show_private_contribs}}&layout=compact">
+</p>
+</details>
+
+---
+
+<details open>
+<summary>💭 <b>My most recent blog post</b></summary>
+<br>
+<a target="_blank" href="https:/github-readme-medium-recent-article.vercel.app/medium/{{medium_blog}}/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/{{medium_blog}}/0" alt="Recent article 0"></a>
+
+</details>
+
+---
+
+<details closed>
+<summary>🎥 <b>My Twitch stream schedule</b></summary>
+<br>
+
+- You can view my Twitch channel by [clicking here](https://twitch.tv/{{twitch_username}})
+
+<br>
+
+<table>
+	<tr>
+		<th>Day of the week</th>
+		<th>Stream start time (Eastern Standard Time)</th>
+		<th>Stream expected lngth</th>
+		<th>Games played on stream</th>
+	</tr>
+	{{#stream_schedule}}
+	<tr>
+		<td>{{day}}</td>
+		<td>{{start_time}}</td>
+		<td>{{duration}}</td>
+		<td>{{#games}}{{.}}{{/games}}{{^games}}None{{/games}}</td>
+	</tr>
+	{{/stream_schedule}}
+	{{^stream_schedule}}
+	<tr>
+		<td>None specified</td>
+		<td>None specified</td>
+		<td>None specified</td>
+		<td>None specified</td>
+	</tr>
+	{{/stream_schedule}}
+</table>
+
+</details>
+
+---
+
+Thanks for stopping by my GitHub profile! Hope you enjoyed it!
+
+[![Visits Badge](https://badges.pufler.dev/visits/{{github_username}}/{{github_username}}?style=for-the-badge)](https://github.com/{{github_username}}/{{github_username}}/)
+
+<p align="left" style="font-size=10px;"><i>This README was last generated on {{gen_date}}</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
