@@ -84,8 +84,4 @@ Thanks for stopping by my GitHub profile! Hope you enjoyed it!
 
 [![Visits Badge](https://badges.pufler.dev/visits/3reetop/3reetop?style=for-the-badge)](https://github.com/3reetop/3reetop/)
 
-<<<<<<< HEAD
-<p align="left" style="font-size=10px;"><i>This README was last generated on Sunday, September 13, 2020, 7:22 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
-=======
-<p align="left" style="font-size=10px;"><i>This README was last generated on Sunday, September 13, 2020, 7:07 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
->>>>>>> 447192ea263bedb4c54056eddec9faa906486e55
+<p align="left" style="font-size=10px;"><i>This README was last generated on Sunday, September 13, 2020, 7:26 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
