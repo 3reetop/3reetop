@@ -59,7 +59,7 @@
 	"languages": ["`Bosnian`, ", "`English`"],
 	"programming_languages": ["`JavaScript`, ", "`Python`, ", "`C#`, ", "`Java`"],
 	"fun_facts": [
-		{"emoji": ":heart:", "fact": "Check out my [GitHub Sponsors](https://github.com/3reetop) profile!"}
+		{"emoji": ":heart:", "fact": "Check out my [GitHub Sponsors](https://github.com/sponsors/3reetop) profile!"}
 	],
 	"stream_schedule": [{
 			"day": "Monday",
