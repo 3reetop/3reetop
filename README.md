@@ -45,7 +45,7 @@ Here's some fun facts about me:
 <summary>🎥 <b>My Twitch stream schedule</b></summary>
 <br>
 
-- You can view my Twitch channel by <a target="_blank" href="3reetopofficial">clicking here</a>.
+- You can view my Twitch channel by <a target="_blank" href="https://twitch.tv/3reetopofficial">clicking here</a>.
 
 <br>
 
@@ -84,4 +84,4 @@ Thanks for stopping by my GitHub profile! Hope you enjoyed it!
 
 [![Visits Badge](https://badges.pufler.dev/visits/3reetop/3reetop?style=for-the-badge)](https://github.com/3reetop/3reetop/)
 
-<p align="left" style="font-size=10px;"><i>This README was last generated on Monday, September 14, 2020, 1:33 AM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
+<p align="left" style="font-size=10px;"><i>This README was last generated on Monday, September 14, 2020, 1:39 AM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
