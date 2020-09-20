@@ -1,5 +1,5 @@
 ## 👋 Hey there!
-I'm Sanel! I'm 16 years old. I&#39;m a software developer, music producer, and (occasional) Twitch streamer. I like to make trap beats and share them with the world. In my downtime, I like to code small toys every now and then, and I stream Mondays, Tuesdays, and Wednesdays on my Twitch channel!
+I'm Sanel! I'm 16 years old. I&#39;m a software developer, music producer, and (occasional) Caffeine streamer. I like to make trap beats and share them with the world. In my downtime, I like to code small toys every now and then, and I stream Mondays, Tuesdays, and Wednesdays on my Caffeine channel!
 
 Here's some fun facts about me:
 
@@ -44,10 +44,10 @@ Here's some fun facts about me:
 ---
 
 <details closed>
-<summary>🎥 <b>My Twitch stream schedule</b></summary>
+<summary>🎥 <b>My stream schedule</b></summary>
 <br>
 
-- You can view my Twitch channel by <a target="_blank" href="https://twitch.tv/3reetopofficial">clicking here</a>.
+- You can view my Caffeine channel by <a target="_blank" href="https://caffeine.tv/t3reetop">clicking here</a>.
 
 <br>
 
@@ -86,4 +86,4 @@ Thanks for stopping by my GitHub profile! Hope you enjoyed it!
 
 [![Visits Badge](https://badges.pufler.dev/visits/3reetop/3reetop?style=for-the-badge)](https://github.com/3reetop/3reetop/)
 
-<p align="left" style="font-size=10px;"><i>This README was last generated on Sunday, September 20, 2020, 2:12 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
+<p align="left" style="font-size=10px;"><i>This README was last generated on Sunday, September 20, 2020, 6:56 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
