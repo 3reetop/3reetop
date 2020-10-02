@@ -11,6 +11,7 @@ Here's some fun facts about me:
 - :heart: Check out my [GitHub Sponsors](https://github.com/sponsors/3reetop) profile!
 - :computer: I'm currently taking AP Computer Science at Florida Virtual School (FLVS)
 - :bosnia_herzegovina: I was born and raised in the United States, but my parents were born and raised in Bosnia!
+- :cat: I have a pet cat named Kitty! You can view pictures of him by [clicking here](https://meow.3reetop.tech)
 
 <details open>
 <summary>🤝 <b>My social media profiles</b></summary>
@@ -86,4 +87,4 @@ Thanks for stopping by my GitHub profile! Hope you enjoyed it!
 
 [![Visits Badge](https://badges.pufler.dev/visits/3reetop/3reetop?style=for-the-badge)](https://github.com/3reetop/3reetop/)
 
-<p align="left" style="font-size=10px;"><i>This README was last generated on Friday, October 2, 2020, 2:13 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
+<p align="left" style="font-size=10px;"><i>This README was last generated on Friday, October 2, 2020, 3:47 PM EDT</i></p><p align="right" style="font-size: 20px;"><a style="font-size: 20px;" href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How this was made</a></p>
