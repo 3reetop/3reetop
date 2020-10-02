@@ -66,7 +66,8 @@
 	"fun_facts": [
 		{"emoji": ":heart:", "fact": "Check out my [GitHub Sponsors](https://github.com/sponsors/3reetop) profile!"},
 		{"emoji": ":computer:", "fact": "I'm currently taking AP Computer Science at Florida Virtual School (FLVS)"},
-		{"emoji": ":bosnia_herzegovina:", "fact": "I was born and raised in the United States, but my parents were born and raised in Bosnia!"}
+		{"emoji": ":bosnia_herzegovina:", "fact": "I was born and raised in the United States, but my parents were born and raised in Bosnia!"},
+		{"emoji": ":cat:", "fact": "I have a pet cat named Kitty! You can view pictures of him by [clicking here](https://meow.3reetop.tech)"}
 	],
 	"stream_schedule": [{
 			"day": "Monday",
